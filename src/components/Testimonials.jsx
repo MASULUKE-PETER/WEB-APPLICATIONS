@@ -1,18 +1,18 @@
 const REVIEWS = [
   {
-    quote: 'QIBII caught a drainage issue in the site survey that would have cost us a season of delays. That alone paid for the project management fee.',
-    name: 'Marcus Hale',
-    role: 'Developer, Hale Property Group',
+    quote: 'Coming Soon!',
+    name: 'Peter Masuluke',
+    role: 'Director, Qibii Construction Services',
   },
   {
-    quote: 'We got weekly photo updates and a real budget line every Friday. No chasing anyone for status — it just showed up.',
-    name: 'Priya Nandan',
-    role: 'Facilities Director, Meridian Logistics',
+    quote: 'Coming Soon!',
+    name: 'Peter Masuluke',
+    role: 'Director, Qibii Construction Services',
   },
   {
-    quote: 'Our townhome build finished nine days ahead of the contracted date, fully inspected. Would sign with them again without a second bid.',
-    name: 'Owen Castillo',
-    role: 'Homeowner, Ashgrove',
+    quote: 'Coming Soon!',
+    name: 'Peter Masuluke',
+    role: 'Director, Qibii Construction Services',
   },
 ]
 
