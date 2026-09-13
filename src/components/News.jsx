@@ -16,18 +16,18 @@ const NEWS = [
     excerpt: 'Our Managing Director provides strategic leadership and direction, driving QIBII Construction Services towards sustainable growth, quality workmanship and successful project delivery.',
   },
   {
-    image: '/news/contractor-of-the-year.jpg',
-    date: 'August 2026',
-    category: 'Leadership',
-    title: 'QIBII named Regional Contractor of the Year',
-    excerpt: 'The regional builders association recognized QIBII for on-time delivery rates and client satisfaction scores across commercial and civil projects.',
+    image: '/news/main.jpg',
+    date: 'July 2026',
+    category: 'Business Opportunities',
+    title: 'Now Open for New Construction Opportunities',
+    excerpt: 'Qibii Construction Services is currently open to new construction opportunities and partnerships. We are ready to work with contractors, developers, municipalities and private clients on commercial, residential, civil and infrastructure projects.',
   },
   {
-    image: '/news/community-centre-rebuild.jpg',
-    date: 'March 2026',
-    category: 'Community',
-    title: 'Our crews rebuilt the Eastside community centre roof, at cost',
-    excerpt: 'After storm damage closed the community centre for six weeks, QIBII volunteered labor and materials at cost to get doors back open before the season changed.',
+    image: '/news/main.jpg',
+    date: 'June 2026',
+    category: 'Company Update',
+    title: 'We’re Ready for New Projects',
+    excerpt: 'Qibii Construction Services is actively seeking new projects, subcontracting opportunities and construction partnerships. We are ready to bring our skills, experience and commitment to your next project.',
   },
 ]
 
