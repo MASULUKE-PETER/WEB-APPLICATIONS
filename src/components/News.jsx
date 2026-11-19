@@ -3,7 +3,7 @@ import { useEffect, useRef, useState } from 'react'
 const NEWS = [
   {
     image: '/news/peter.jpg',
-    date: 'September 2026',
+    date: 'November 2026',
     category: 'Leadership',
     title: 'Meet Our Director',
     excerpt: 'Meet the Director of QIBII Construction Services (Pty) Ltd, driving the company’s growth with experience, leadership and a commitment to quality construction.',
