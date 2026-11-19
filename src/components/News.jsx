@@ -17,7 +17,7 @@ const NEWS = [
   },
   {
     image: '/news/main.jpg',
-    date: 'July 2026',
+    date: 'November 2026',
     category: 'Business Opportunities',
     title: 'Now Open for New Construction Opportunities',
     excerpt: 'Qibii Construction Services is currently open to new construction opportunities and partnerships. We are ready to work with contractors, developers, municipalities and private clients on commercial, residential, civil and infrastructure projects.',
